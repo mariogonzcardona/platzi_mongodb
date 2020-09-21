@@ -1,0 +1,19 @@
+{
+    "_id":"5f679d160a0d171710987822",
+    "nombre":"Carrera de AWS",
+    "descripcion":"En esta carrera aprenderas fundamentos de AWS",
+    "clases":[
+        {
+            "_id":"id",
+            "orden":"",
+            "nombre":"",
+            "video":["URL1"]
+        },
+        {
+            "_id":"id",
+            "orden":"",
+            "nombre":"",
+            "video":["URL1"]
+        }
+    ]
+}
